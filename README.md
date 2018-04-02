@@ -1,7 +1,7 @@
 # mtg-spark-data-import
 MTG Spark Data Import is a project responsible for reading cards data and indexing it into databases (currently only Solr is supported)
 
-## Starting a fresh Solr container with a empty cards core
+## Starting a fresh Solr container with an empty cards core
 On the root folder of the project run the command:
 ```
 docker-compose up
